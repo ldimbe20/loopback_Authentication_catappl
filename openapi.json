@@ -1,0 +1,8 @@
+
+> @loopback/example-todo@6.0.0 preopenapi-spec
+> npm run build
+
+
+> @loopback/example-todo@6.0.0 build
+> lb-tsc
+

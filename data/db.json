@@ -1,0 +1,31 @@
+{
+  "ids": {
+    "Todo": 5,
+    "User": 6,
+    "UserCredentials": 6,
+    "Cat": 2
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"title\":\"Take over the galaxy\",\"desc\":\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\",\"id\":1}",
+      "2": "{\"title\":\"destroy alderaan\",\"desc\":\"Make sure there are no survivors left!\",\"id\":2}",
+      "3": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"id\":3}",
+      "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4}"
+    },
+    "User": {
+      "c1f60590-5b37-41e9-9cba-20e622562ff2": "{\"id\":\"c1f60590-5b37-41e9-9cba-20e622562ff2\",\"email\":\"lauren@gmail.com\"}",
+      "447d73af-e4cf-49fa-81d8-4d4dbbcf2883": "{\"id\":\"447d73af-e4cf-49fa-81d8-4d4dbbcf2883\",\"email\":\"testuser2@abc.com\"}",
+      "4d20ecdf-1890-4084-b02b-13676e3b403b": "{\"id\":\"4d20ecdf-1890-4084-b02b-13676e3b403b\",\"email\":\"lauren3@gmail.com\"}",
+      "0191748e-0196-448f-9596-596aabdebad8": "{\"id\":\"0191748e-0196-448f-9596-596aabdebad8\",\"email\":\"tester@gmail.com\"}",
+      "f6affbc9-44b8-46c0-b13a-85b5e8733ecd": "{\"id\":\"f6affbc9-44b8-46c0-b13a-85b5e8733ecd\",\"email\":\"ddd@gmail.com\"}"
+    },
+    "UserCredentials": {
+      "b1c34206-d5f5-47dc-973c-4cad3b5b281f": "{\"id\":\"b1c34206-d5f5-47dc-973c-4cad3b5b281f\",\"password\":\"$2a$10$CbKtX7VxalO14zijqG137OPOKhWU6WMf7TqkZf6.qx94MvYDu3wHS\",\"userId\":\"c1f60590-5b37-41e9-9cba-20e622562ff2\"}",
+      "68004a4b-88f2-4d41-aaa7-f50a6cb7386c": "{\"id\":\"68004a4b-88f2-4d41-aaa7-f50a6cb7386c\",\"password\":\"$2a$10$k9UJeLaoMUCLo6b4XTF/GuBNPaUOlGAEaBx/PVVzfo7BTaOpewJem\",\"userId\":\"447d73af-e4cf-49fa-81d8-4d4dbbcf2883\"}",
+      "8335c51f-551d-4ea7-9295-373099cb6587": "{\"id\":\"8335c51f-551d-4ea7-9295-373099cb6587\",\"password\":\"$2a$10$80XsCSn54cpR1Bj4AGB7IOXpmurNpArJ72YHqtllAFb6Vre6IldrG\",\"userId\":\"4d20ecdf-1890-4084-b02b-13676e3b403b\"}",
+      "ce26f491-0176-4360-a0e4-3fc05694c627": "{\"id\":\"ce26f491-0176-4360-a0e4-3fc05694c627\",\"password\":\"$2a$10$Ll/CguUZQBIdN1h8PnS18uSpa6e7A7E.0q5nzloN7g0C9OVxYSbwa\",\"userId\":\"0191748e-0196-448f-9596-596aabdebad8\"}",
+      "80b0ce44-b86f-40d5-9153-32d1f654714e": "{\"id\":\"80b0ce44-b86f-40d5-9153-32d1f654714e\",\"password\":\"$2a$10$fAnYNoEhVbSgyB2ElrD37u9rLStnLIrQkb.QbI850gD4NyxLfnc2C\",\"userId\":\"f6affbc9-44b8-46c0-b13a-85b5e8733ecd\"}"
+    },
+    "Cat": {}
+  }
+}
